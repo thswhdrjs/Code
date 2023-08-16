@@ -1,5 +1,3 @@
-# 🐜 STUDY
-
  - ## [`백준`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80)
       - #### [`1. 입출력과 사칙연산`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/1_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
       - #### [`2. 조건문`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/2_%EC%A1%B0%EA%B1%B4%EB%AC%B8)
