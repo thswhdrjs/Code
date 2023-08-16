@@ -1,0 +1,6 @@
+E:\C#\5_문자열\2675\bin\Debug\2675.exe.config
+E:\C#\5_문자열\2675\bin\Debug\2675.exe
+E:\C#\5_문자열\2675\bin\Debug\2675.pdb
+E:\C#\5_문자열\2675\obj\Debug\2675.csproj.CoreCompileInputs.cache
+E:\C#\5_문자열\2675\obj\Debug\2675.exe
+E:\C#\5_문자열\2675\obj\Debug\2675.pdb

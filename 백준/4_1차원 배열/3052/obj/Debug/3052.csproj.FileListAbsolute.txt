@@ -1,0 +1,7 @@
+E:\C#\4_1차원 배열\3052\bin\Debug\3052.exe.config
+E:\C#\4_1차원 배열\3052\bin\Debug\3052.exe
+E:\C#\4_1차원 배열\3052\bin\Debug\3052.pdb
+E:\C#\4_1차원 배열\3052\obj\Debug\3052.csproj.AssemblyReference.cache
+E:\C#\4_1차원 배열\3052\obj\Debug\3052.csproj.CoreCompileInputs.cache
+E:\C#\4_1차원 배열\3052\obj\Debug\3052.exe
+E:\C#\4_1차원 배열\3052\obj\Debug\3052.pdb

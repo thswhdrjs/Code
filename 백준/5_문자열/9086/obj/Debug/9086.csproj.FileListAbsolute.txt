@@ -1,0 +1,7 @@
+E:\C#\5_문자열\9086\bin\Debug\9086.exe.config
+E:\C#\5_문자열\9086\bin\Debug\9086.exe
+E:\C#\5_문자열\9086\bin\Debug\9086.pdb
+E:\C#\5_문자열\9086\obj\Debug\9086.csproj.AssemblyReference.cache
+E:\C#\5_문자열\9086\obj\Debug\9086.csproj.CoreCompileInputs.cache
+E:\C#\5_문자열\9086\obj\Debug\9086.exe
+E:\C#\5_문자열\9086\obj\Debug\9086.pdb

@@ -1,0 +1,6 @@
+E:\C#\4_1차원 배열\2577\bin\Debug\2577.exe.config
+E:\C#\4_1차원 배열\2577\bin\Debug\2577.exe
+E:\C#\4_1차원 배열\2577\bin\Debug\2577.pdb
+E:\C#\4_1차원 배열\2577\obj\Debug\2577.csproj.CoreCompileInputs.cache
+E:\C#\4_1차원 배열\2577\obj\Debug\2577.exe
+E:\C#\4_1차원 배열\2577\obj\Debug\2577.pdb

@@ -1,0 +1,6 @@
+E:\C#\9. 약수, 배수와 소수\9506\bin\Debug\9506.exe.config
+E:\C#\9. 약수, 배수와 소수\9506\bin\Debug\9506.exe
+E:\C#\9. 약수, 배수와 소수\9506\bin\Debug\9506.pdb
+E:\C#\9. 약수, 배수와 소수\9506\obj\Debug\9506.csproj.CoreCompileInputs.cache
+E:\C#\9. 약수, 배수와 소수\9506\obj\Debug\9506.exe
+E:\C#\9. 약수, 배수와 소수\9506\obj\Debug\9506.pdb

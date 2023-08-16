@@ -1,0 +1,6 @@
+E:\C#\재귀\10870\bin\Debug\10870.exe.config
+E:\C#\재귀\10870\bin\Debug\10870.exe
+E:\C#\재귀\10870\bin\Debug\10870.pdb
+E:\C#\재귀\10870\obj\Debug\10870.csproj.CoreCompileInputs.cache
+E:\C#\재귀\10870\obj\Debug\10870.exe
+E:\C#\재귀\10870\obj\Debug\10870.pdb

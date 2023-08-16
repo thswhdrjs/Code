@@ -1,0 +1,6 @@
+E:\C#\3. 반복문\15552\bin\Debug\15552.exe.config
+E:\C#\3. 반복문\15552\bin\Debug\15552.exe
+E:\C#\3. 반복문\15552\bin\Debug\15552.pdb
+E:\C#\3. 반복문\15552\obj\Debug\15552.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\15552\obj\Debug\15552.exe
+E:\C#\3. 반복문\15552\obj\Debug\15552.pdb

@@ -1,0 +1,7 @@
+E:\C#\3. 반복문\25314\bin\Debug\25314.exe.config
+E:\C#\3. 반복문\25314\bin\Debug\25314.exe
+E:\C#\3. 반복문\25314\bin\Debug\25314.pdb
+E:\C#\3. 반복문\25314\obj\Debug\25314.csproj.AssemblyReference.cache
+E:\C#\3. 반복문\25314\obj\Debug\25314.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\25314\obj\Debug\25314.exe
+E:\C#\3. 반복문\25314\obj\Debug\25314.pdb

@@ -1,0 +1,7 @@
+E:\C#\함수\4673\bin\Debug\4673.exe.config
+E:\C#\함수\4673\bin\Debug\4673.exe
+E:\C#\함수\4673\bin\Debug\4673.pdb
+E:\C#\함수\4673\obj\Debug\4673.csproj.AssemblyReference.cache
+E:\C#\함수\4673\obj\Debug\4673.csproj.CoreCompileInputs.cache
+E:\C#\함수\4673\obj\Debug\4673.exe
+E:\C#\함수\4673\obj\Debug\4673.pdb

@@ -1,0 +1,6 @@
+E:\C#\8. 일반 수학 1\2720\bin\Debug\2720.exe.config
+E:\C#\8. 일반 수학 1\2720\bin\Debug\2720.exe
+E:\C#\8. 일반 수학 1\2720\bin\Debug\2720.pdb
+E:\C#\8. 일반 수학 1\2720\obj\Debug\2720.csproj.CoreCompileInputs.cache
+E:\C#\8. 일반 수학 1\2720\obj\Debug\2720.exe
+E:\C#\8. 일반 수학 1\2720\obj\Debug\2720.pdb

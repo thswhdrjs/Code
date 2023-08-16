@@ -1,0 +1,7 @@
+E:\C#\6_심화 1\2941\bin\Debug\2941.exe.config
+E:\C#\6_심화 1\2941\bin\Debug\2941.exe
+E:\C#\6_심화 1\2941\bin\Debug\2941.pdb
+E:\C#\6_심화 1\2941\obj\Debug\2941.csproj.AssemblyReference.cache
+E:\C#\6_심화 1\2941\obj\Debug\2941.csproj.CoreCompileInputs.cache
+E:\C#\6_심화 1\2941\obj\Debug\2941.exe
+E:\C#\6_심화 1\2941\obj\Debug\2941.pdb

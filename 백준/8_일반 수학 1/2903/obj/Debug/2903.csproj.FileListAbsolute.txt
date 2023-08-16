@@ -1,0 +1,7 @@
+E:\C#\8. 일반 수학 1\2903\bin\Debug\2903.exe.config
+E:\C#\8. 일반 수학 1\2903\bin\Debug\2903.exe
+E:\C#\8. 일반 수학 1\2903\bin\Debug\2903.pdb
+E:\C#\8. 일반 수학 1\2903\obj\Debug\2903.csproj.AssemblyReference.cache
+E:\C#\8. 일반 수학 1\2903\obj\Debug\2903.csproj.CoreCompileInputs.cache
+E:\C#\8. 일반 수학 1\2903\obj\Debug\2903.exe
+E:\C#\8. 일반 수학 1\2903\obj\Debug\2903.pdb

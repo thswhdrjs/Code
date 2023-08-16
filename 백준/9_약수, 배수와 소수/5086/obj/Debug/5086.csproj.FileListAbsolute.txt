@@ -1,0 +1,7 @@
+E:\C#\9. 약수, 배수와 소수\5086\bin\Debug\5086.exe.config
+E:\C#\9. 약수, 배수와 소수\5086\bin\Debug\5086.exe
+E:\C#\9. 약수, 배수와 소수\5086\bin\Debug\5086.pdb
+E:\C#\9. 약수, 배수와 소수\5086\obj\Debug\5086.csproj.AssemblyReference.cache
+E:\C#\9. 약수, 배수와 소수\5086\obj\Debug\5086.csproj.CoreCompileInputs.cache
+E:\C#\9. 약수, 배수와 소수\5086\obj\Debug\5086.exe
+E:\C#\9. 약수, 배수와 소수\5086\obj\Debug\5086.pdb

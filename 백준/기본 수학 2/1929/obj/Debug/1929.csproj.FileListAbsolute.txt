@@ -1,0 +1,7 @@
+E:\C#\기본 수학 2\1929\bin\Debug\1929.exe.config
+E:\C#\기본 수학 2\1929\bin\Debug\1929.exe
+E:\C#\기본 수학 2\1929\bin\Debug\1929.pdb
+E:\C#\기본 수학 2\1929\obj\Debug\1929.csproj.AssemblyReference.cache
+E:\C#\기본 수학 2\1929\obj\Debug\1929.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\1929\obj\Debug\1929.exe
+E:\C#\기본 수학 2\1929\obj\Debug\1929.pdb

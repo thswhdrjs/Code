@@ -1,0 +1,13 @@
+E:\C#\2_조건문\1330\2753\bin\Debug\2753.exe.config
+E:\C#\2_조건문\1330\2753\bin\Debug\2753.exe
+E:\C#\2_조건문\1330\2753\bin\Debug\2753.pdb
+E:\C#\2_조건문\1330\2753\obj\Debug\2753.csproj.CoreCompileInputs.cache
+E:\C#\2_조건문\1330\2753\obj\Debug\2753.exe
+E:\C#\2_조건문\1330\2753\obj\Debug\2753.pdb
+E:\C#\2_조건문\2753\bin\Debug\2753.exe.config
+E:\C#\2_조건문\2753\bin\Debug\2753.exe
+E:\C#\2_조건문\2753\bin\Debug\2753.pdb
+E:\C#\2_조건문\2753\obj\Debug\2753.csproj.AssemblyReference.cache
+E:\C#\2_조건문\2753\obj\Debug\2753.csproj.CoreCompileInputs.cache
+E:\C#\2_조건문\2753\obj\Debug\2753.exe
+E:\C#\2_조건문\2753\obj\Debug\2753.pdb

@@ -1,0 +1,6 @@
+E:\C#\기본 수학 2\2581\bin\Debug\2581.exe.config
+E:\C#\기본 수학 2\2581\bin\Debug\2581.exe
+E:\C#\기본 수학 2\2581\bin\Debug\2581.pdb
+E:\C#\기본 수학 2\2581\obj\Debug\2581.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\2581\obj\Debug\2581.exe
+E:\C#\기본 수학 2\2581\obj\Debug\2581.pdb

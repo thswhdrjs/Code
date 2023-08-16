@@ -1,0 +1,7 @@
+E:\C#\Study\10869\bin\Debug\10869.exe.config
+E:\C#\Study\10869\bin\Debug\10869.exe
+E:\C#\Study\10869\bin\Debug\10869.pdb
+E:\C#\Study\10869\obj\Debug\10869.csproj.AssemblyReference.cache
+E:\C#\Study\10869\obj\Debug\10869.csproj.CoreCompileInputs.cache
+E:\C#\Study\10869\obj\Debug\10869.exe
+E:\C#\Study\10869\obj\Debug\10869.pdb

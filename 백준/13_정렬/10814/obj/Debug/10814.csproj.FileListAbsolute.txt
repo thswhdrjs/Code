@@ -1,0 +1,6 @@
+E:\C#\13_정렬\10814\bin\Debug\10814.exe.config
+E:\C#\13_정렬\10814\bin\Debug\10814.exe
+E:\C#\13_정렬\10814\bin\Debug\10814.pdb
+E:\C#\13_정렬\10814\obj\Debug\10814.csproj.CoreCompileInputs.cache
+E:\C#\13_정렬\10814\obj\Debug\10814.exe
+E:\C#\13_정렬\10814\obj\Debug\10814.pdb

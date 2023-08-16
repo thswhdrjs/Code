@@ -1,0 +1,6 @@
+E:\C#\Study\2588\bin\Debug\2588.exe.config
+E:\C#\Study\2588\bin\Debug\2588.exe
+E:\C#\Study\2588\bin\Debug\2588.pdb
+E:\C#\Study\2588\obj\Debug\2588.csproj.CoreCompileInputs.cache
+E:\C#\Study\2588\obj\Debug\2588.exe
+E:\C#\Study\2588\obj\Debug\2588.pdb

@@ -1,0 +1,7 @@
+E:\C#\5_문자열\27866\bin\Debug\27866.exe.config
+E:\C#\5_문자열\27866\bin\Debug\27866.exe
+E:\C#\5_문자열\27866\bin\Debug\27866.pdb
+E:\C#\5_문자열\27866\obj\Debug\27866.csproj.AssemblyReference.cache
+E:\C#\5_문자열\27866\obj\Debug\27866.csproj.CoreCompileInputs.cache
+E:\C#\5_문자열\27866\obj\Debug\27866.exe
+E:\C#\5_문자열\27866\obj\Debug\27866.pdb

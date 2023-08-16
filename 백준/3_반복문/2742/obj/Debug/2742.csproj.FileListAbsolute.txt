@@ -1,0 +1,6 @@
+E:\C#\3. 반복문\2742\bin\Debug\2742.exe.config
+E:\C#\3. 반복문\2742\bin\Debug\2742.exe
+E:\C#\3. 반복문\2742\bin\Debug\2742.pdb
+E:\C#\3. 반복문\2742\obj\Debug\2742.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\2742\obj\Debug\2742.exe
+E:\C#\3. 반복문\2742\obj\Debug\2742.pdb

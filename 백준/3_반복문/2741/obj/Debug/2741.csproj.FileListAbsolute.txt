@@ -1,0 +1,6 @@
+E:\C#\3. 반복문\2741\bin\Debug\2741.exe.config
+E:\C#\3. 반복문\2741\bin\Debug\2741.exe
+E:\C#\3. 반복문\2741\bin\Debug\2741.pdb
+E:\C#\3. 반복문\2741\obj\Debug\2741.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\2741\obj\Debug\2741.exe
+E:\C#\3. 반복문\2741\obj\Debug\2741.pdb

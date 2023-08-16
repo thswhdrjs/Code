@@ -1,0 +1,6 @@
+E:\C#\8_일반 수학 1\10757\bin\Debug\10757.exe.config
+E:\C#\8_일반 수학 1\10757\bin\Debug\10757.exe
+E:\C#\8_일반 수학 1\10757\bin\Debug\10757.pdb
+E:\C#\8_일반 수학 1\10757\obj\Debug\10757.csproj.CoreCompileInputs.cache
+E:\C#\8_일반 수학 1\10757\obj\Debug\10757.exe
+E:\C#\8_일반 수학 1\10757\obj\Debug\10757.pdb

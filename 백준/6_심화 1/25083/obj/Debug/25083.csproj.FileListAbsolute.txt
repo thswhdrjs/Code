@@ -1,0 +1,6 @@
+E:\C#\6_심화 1\25083\bin\Debug\25083.exe.config
+E:\C#\6_심화 1\25083\bin\Debug\25083.exe
+E:\C#\6_심화 1\25083\bin\Debug\25083.pdb
+E:\C#\6_심화 1\25083\obj\Debug\25083.csproj.CoreCompileInputs.cache
+E:\C#\6_심화 1\25083\obj\Debug\25083.exe
+E:\C#\6_심화 1\25083\obj\Debug\25083.pdb

@@ -1,0 +1,7 @@
+E:\C#\12_브루트 포스\1436\bin\Debug\1436.exe.config
+E:\C#\12_브루트 포스\1436\bin\Debug\1436.exe
+E:\C#\12_브루트 포스\1436\bin\Debug\1436.pdb
+E:\C#\12_브루트 포스\1436\obj\Debug\1436.csproj.AssemblyReference.cache
+E:\C#\12_브루트 포스\1436\obj\Debug\1436.csproj.CoreCompileInputs.cache
+E:\C#\12_브루트 포스\1436\obj\Debug\1436.exe
+E:\C#\12_브루트 포스\1436\obj\Debug\1436.pdb

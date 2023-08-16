@@ -1,0 +1,7 @@
+E:\C#\1. 입출력과 사칙연산\2557\bin\Debug\2557.exe.config
+E:\C#\1. 입출력과 사칙연산\2557\bin\Debug\2557.exe
+E:\C#\1. 입출력과 사칙연산\2557\bin\Debug\2557.pdb
+E:\C#\1. 입출력과 사칙연산\2557\obj\Debug\2557.csproj.AssemblyReference.cache
+E:\C#\1. 입출력과 사칙연산\2557\obj\Debug\2557.csproj.CoreCompileInputs.cache
+E:\C#\1. 입출력과 사칙연산\2557\obj\Debug\2557.exe
+E:\C#\1. 입출력과 사칙연산\2557\obj\Debug\2557.pdb

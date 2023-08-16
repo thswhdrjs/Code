@@ -1,0 +1,6 @@
+E:\C#\4_1차원 배열\1546\bin\Debug\1546.exe.config
+E:\C#\4_1차원 배열\1546\bin\Debug\1546.exe
+E:\C#\4_1차원 배열\1546\bin\Debug\1546.pdb
+E:\C#\4_1차원 배열\1546\obj\Debug\1546.csproj.CoreCompileInputs.cache
+E:\C#\4_1차원 배열\1546\obj\Debug\1546.exe
+E:\C#\4_1차원 배열\1546\obj\Debug\1546.pdb

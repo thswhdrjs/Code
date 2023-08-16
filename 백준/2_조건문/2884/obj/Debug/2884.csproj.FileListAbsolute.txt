@@ -1,0 +1,6 @@
+E:\C#\2_조건문\2884\bin\Debug\2884.exe.config
+E:\C#\2_조건문\2884\bin\Debug\2884.exe
+E:\C#\2_조건문\2884\bin\Debug\2884.pdb
+E:\C#\2_조건문\2884\obj\Debug\2884.csproj.CoreCompileInputs.cache
+E:\C#\2_조건문\2884\obj\Debug\2884.exe
+E:\C#\2_조건문\2884\obj\Debug\2884.pdb

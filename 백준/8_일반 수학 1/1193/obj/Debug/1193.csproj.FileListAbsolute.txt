@@ -1,0 +1,7 @@
+E:\C#\8_일반 수학 1\1193\bin\Debug\1193.exe.config
+E:\C#\8_일반 수학 1\1193\bin\Debug\1193.exe
+E:\C#\8_일반 수학 1\1193\bin\Debug\1193.pdb
+E:\C#\8_일반 수학 1\1193\obj\Debug\1193.csproj.AssemblyReference.cache
+E:\C#\8_일반 수학 1\1193\obj\Debug\1193.csproj.CoreCompileInputs.cache
+E:\C#\8_일반 수학 1\1193\obj\Debug\1193.exe
+E:\C#\8_일반 수학 1\1193\obj\Debug\1193.pdb

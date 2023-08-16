@@ -1,0 +1,6 @@
+E:\C#\12_브루트 포스\7568\bin\Debug\7568.exe.config
+E:\C#\12_브루트 포스\7568\bin\Debug\7568.exe
+E:\C#\12_브루트 포스\7568\bin\Debug\7568.pdb
+E:\C#\12_브루트 포스\7568\obj\Debug\7568.csproj.CoreCompileInputs.cache
+E:\C#\12_브루트 포스\7568\obj\Debug\7568.exe
+E:\C#\12_브루트 포스\7568\obj\Debug\7568.pdb

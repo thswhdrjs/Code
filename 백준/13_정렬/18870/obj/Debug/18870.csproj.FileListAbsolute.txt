@@ -1,0 +1,6 @@
+E:\C#\13_정렬\18870\bin\Debug\18870.exe.config
+E:\C#\13_정렬\18870\bin\Debug\18870.exe
+E:\C#\13_정렬\18870\bin\Debug\18870.pdb
+E:\C#\13_정렬\18870\obj\Debug\18870.csproj.CoreCompileInputs.cache
+E:\C#\13_정렬\18870\obj\Debug\18870.exe
+E:\C#\13_정렬\18870\obj\Debug\18870.pdb

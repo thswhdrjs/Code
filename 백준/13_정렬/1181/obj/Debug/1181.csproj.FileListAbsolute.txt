@@ -1,0 +1,6 @@
+E:\C#\13_정렬\1181\bin\Debug\1181.exe.config
+E:\C#\13_정렬\1181\bin\Debug\1181.exe
+E:\C#\13_정렬\1181\bin\Debug\1181.pdb
+E:\C#\13_정렬\1181\obj\Debug\1181.csproj.CoreCompileInputs.cache
+E:\C#\13_정렬\1181\obj\Debug\1181.exe
+E:\C#\13_정렬\1181\obj\Debug\1181.pdb

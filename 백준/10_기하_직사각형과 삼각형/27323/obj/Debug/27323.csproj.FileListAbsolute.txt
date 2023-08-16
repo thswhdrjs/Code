@@ -1,0 +1,7 @@
+E:\C#\10. 기하 직사각형과 삼각형\27323\bin\Debug\27323.exe.config
+E:\C#\10. 기하 직사각형과 삼각형\27323\bin\Debug\27323.exe
+E:\C#\10. 기하 직사각형과 삼각형\27323\bin\Debug\27323.pdb
+E:\C#\10. 기하 직사각형과 삼각형\27323\obj\Debug\27323.csproj.AssemblyReference.cache
+E:\C#\10. 기하 직사각형과 삼각형\27323\obj\Debug\27323.csproj.CoreCompileInputs.cache
+E:\C#\10. 기하 직사각형과 삼각형\27323\obj\Debug\27323.exe
+E:\C#\10. 기하 직사각형과 삼각형\27323\obj\Debug\27323.pdb

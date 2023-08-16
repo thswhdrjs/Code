@@ -1,0 +1,7 @@
+E:\C#\6_심화 1\10988\bin\Debug\10988.exe.config
+E:\C#\6_심화 1\10988\bin\Debug\10988.exe
+E:\C#\6_심화 1\10988\bin\Debug\10988.pdb
+E:\C#\6_심화 1\10988\obj\Debug\10988.csproj.AssemblyReference.cache
+E:\C#\6_심화 1\10988\obj\Debug\10988.csproj.CoreCompileInputs.cache
+E:\C#\6_심화 1\10988\obj\Debug\10988.exe
+E:\C#\6_심화 1\10988\obj\Debug\10988.pdb

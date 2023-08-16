@@ -1,0 +1,7 @@
+E:\C#\12_브루트 포스\1018\bin\Debug\1018.exe.config
+E:\C#\12_브루트 포스\1018\bin\Debug\1018.exe
+E:\C#\12_브루트 포스\1018\bin\Debug\1018.pdb
+E:\C#\12_브루트 포스\1018\obj\Debug\1018.csproj.AssemblyReference.cache
+E:\C#\12_브루트 포스\1018\obj\Debug\1018.csproj.CoreCompileInputs.cache
+E:\C#\12_브루트 포스\1018\obj\Debug\1018.exe
+E:\C#\12_브루트 포스\1018\obj\Debug\1018.pdb

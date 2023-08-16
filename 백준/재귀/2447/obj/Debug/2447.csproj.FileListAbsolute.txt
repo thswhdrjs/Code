@@ -1,0 +1,6 @@
+E:\C#\재귀\2447\bin\Debug\2447.exe.config
+E:\C#\재귀\2447\bin\Debug\2447.exe
+E:\C#\재귀\2447\bin\Debug\2447.pdb
+E:\C#\재귀\2447\obj\Debug\2447.csproj.CoreCompileInputs.cache
+E:\C#\재귀\2447\obj\Debug\2447.exe
+E:\C#\재귀\2447\obj\Debug\2447.pdb

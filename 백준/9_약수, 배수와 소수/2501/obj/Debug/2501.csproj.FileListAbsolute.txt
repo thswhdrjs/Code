@@ -1,0 +1,7 @@
+E:\C#\9. 약수, 배수와 소수\2501\bin\Debug\2501.exe.config
+E:\C#\9. 약수, 배수와 소수\2501\bin\Debug\2501.exe
+E:\C#\9. 약수, 배수와 소수\2501\bin\Debug\2501.pdb
+E:\C#\9. 약수, 배수와 소수\2501\obj\Debug\2501.csproj.AssemblyReference.cache
+E:\C#\9. 약수, 배수와 소수\2501\obj\Debug\2501.csproj.CoreCompileInputs.cache
+E:\C#\9. 약수, 배수와 소수\2501\obj\Debug\2501.exe
+E:\C#\9. 약수, 배수와 소수\2501\obj\Debug\2501.pdb

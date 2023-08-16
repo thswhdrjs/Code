@@ -1,0 +1,6 @@
+E:\C#\기본 수학 2\4153\bin\Debug\4153.exe.config
+E:\C#\기본 수학 2\4153\bin\Debug\4153.exe
+E:\C#\기본 수학 2\4153\bin\Debug\4153.pdb
+E:\C#\기본 수학 2\4153\obj\Debug\4153.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\4153\obj\Debug\4153.exe
+E:\C#\기본 수학 2\4153\obj\Debug\4153.pdb

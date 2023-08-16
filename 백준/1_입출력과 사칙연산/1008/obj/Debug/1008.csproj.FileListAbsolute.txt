@@ -1,0 +1,6 @@
+E:\C#\Study\1008\bin\Debug\1008.exe.config
+E:\C#\Study\1008\bin\Debug\1008.exe
+E:\C#\Study\1008\bin\Debug\1008.pdb
+E:\C#\Study\1008\obj\Debug\1008.csproj.CoreCompileInputs.cache
+E:\C#\Study\1008\obj\Debug\1008.exe
+E:\C#\Study\1008\obj\Debug\1008.pdb

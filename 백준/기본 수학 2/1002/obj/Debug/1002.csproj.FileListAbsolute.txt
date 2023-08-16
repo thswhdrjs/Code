@@ -1,0 +1,7 @@
+E:\C#\기본 수학 2\1002\obj\Debug\1002.csproj.AssemblyReference.cache
+E:\C#\기본 수학 2\1002\obj\Debug\1002.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\1002\bin\Debug\1002.exe.config
+E:\C#\기본 수학 2\1002\bin\Debug\1002.exe
+E:\C#\기본 수학 2\1002\bin\Debug\1002.pdb
+E:\C#\기본 수학 2\1002\obj\Debug\1002.exe
+E:\C#\기본 수학 2\1002\obj\Debug\1002.pdb

@@ -1,0 +1,7 @@
+E:\C#\재귀\10872\bin\Debug\10872.exe.config
+E:\C#\재귀\10872\bin\Debug\10872.exe
+E:\C#\재귀\10872\bin\Debug\10872.pdb
+E:\C#\재귀\10872\obj\Debug\10872.csproj.AssemblyReference.cache
+E:\C#\재귀\10872\obj\Debug\10872.csproj.CoreCompileInputs.cache
+E:\C#\재귀\10872\obj\Debug\10872.exe
+E:\C#\재귀\10872\obj\Debug\10872.pdb

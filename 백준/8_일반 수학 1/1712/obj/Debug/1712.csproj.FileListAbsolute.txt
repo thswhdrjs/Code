@@ -1,0 +1,6 @@
+E:\C#\8_일반 수학 1\1712\bin\Debug\1712.exe.config
+E:\C#\8_일반 수학 1\1712\bin\Debug\1712.exe
+E:\C#\8_일반 수학 1\1712\bin\Debug\1712.pdb
+E:\C#\8_일반 수학 1\1712\obj\Debug\1712.csproj.CoreCompileInputs.cache
+E:\C#\8_일반 수학 1\1712\obj\Debug\1712.exe
+E:\C#\8_일반 수학 1\1712\obj\Debug\1712.pdb

@@ -1,0 +1,7 @@
+E:\C#\10. 기하 직사각형과 삼각형\1085\bin\Debug\1085.exe.config
+E:\C#\10. 기하 직사각형과 삼각형\1085\bin\Debug\1085.exe
+E:\C#\10. 기하 직사각형과 삼각형\1085\bin\Debug\1085.pdb
+E:\C#\10. 기하 직사각형과 삼각형\1085\obj\Debug\1085.csproj.AssemblyReference.cache
+E:\C#\10. 기하 직사각형과 삼각형\1085\obj\Debug\1085.csproj.CoreCompileInputs.cache
+E:\C#\10. 기하 직사각형과 삼각형\1085\obj\Debug\1085.exe
+E:\C#\10. 기하 직사각형과 삼각형\1085\obj\Debug\1085.pdb

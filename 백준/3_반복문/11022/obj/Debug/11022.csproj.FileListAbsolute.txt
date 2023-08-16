@@ -1,0 +1,6 @@
+E:\C#\3. 반복문\11022\bin\Debug\11022.exe.config
+E:\C#\3. 반복문\11022\bin\Debug\11022.exe
+E:\C#\3. 반복문\11022\bin\Debug\11022.pdb
+E:\C#\3. 반복문\11022\obj\Debug\11022.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\11022\obj\Debug\11022.exe
+E:\C#\3. 반복문\11022\obj\Debug\11022.pdb

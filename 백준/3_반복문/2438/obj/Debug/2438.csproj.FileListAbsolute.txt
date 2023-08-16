@@ -1,0 +1,6 @@
+E:\C#\3. 반복문\2438\bin\Debug\2438.exe.config
+E:\C#\3. 반복문\2438\bin\Debug\2438.exe
+E:\C#\3. 반복문\2438\bin\Debug\2438.pdb
+E:\C#\3. 반복문\2438\obj\Debug\2438.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\2438\obj\Debug\2438.exe
+E:\C#\3. 반복문\2438\obj\Debug\2438.pdb

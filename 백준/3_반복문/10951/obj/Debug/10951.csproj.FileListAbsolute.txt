@@ -1,0 +1,6 @@
+E:\C#\3. 반복문\10951\bin\Debug\10951.exe.config
+E:\C#\3. 반복문\10951\bin\Debug\10951.exe
+E:\C#\3. 반복문\10951\bin\Debug\10951.pdb
+E:\C#\3. 반복문\10951\obj\Debug\10951.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\10951\obj\Debug\10951.exe
+E:\C#\3. 반복문\10951\obj\Debug\10951.pdb

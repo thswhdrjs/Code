@@ -1,0 +1,6 @@
+E:\C#\6_심화 1\1157\bin\Debug\1157.exe.config
+E:\C#\6_심화 1\1157\bin\Debug\1157.exe
+E:\C#\6_심화 1\1157\bin\Debug\1157.pdb
+E:\C#\6_심화 1\1157\obj\Debug\1157.csproj.CoreCompileInputs.cache
+E:\C#\6_심화 1\1157\obj\Debug\1157.exe
+E:\C#\6_심화 1\1157\obj\Debug\1157.pdb

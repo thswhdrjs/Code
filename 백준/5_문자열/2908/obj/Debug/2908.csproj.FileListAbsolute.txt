@@ -1,0 +1,6 @@
+E:\C#\5_문자열\2908\bin\Debug\2908.exe.config
+E:\C#\5_문자열\2908\bin\Debug\2908.exe
+E:\C#\5_문자열\2908\bin\Debug\2908.pdb
+E:\C#\5_문자열\2908\obj\Debug\2908.csproj.CoreCompileInputs.cache
+E:\C#\5_문자열\2908\obj\Debug\2908.exe
+E:\C#\5_문자열\2908\obj\Debug\2908.pdb

@@ -1,0 +1,7 @@
+E:\C#\7. 2차원 배열\2566\bin\Debug\2566.exe.config
+E:\C#\7. 2차원 배열\2566\bin\Debug\2566.exe
+E:\C#\7. 2차원 배열\2566\bin\Debug\2566.pdb
+E:\C#\7. 2차원 배열\2566\obj\Debug\2566.csproj.AssemblyReference.cache
+E:\C#\7. 2차원 배열\2566\obj\Debug\2566.csproj.CoreCompileInputs.cache
+E:\C#\7. 2차원 배열\2566\obj\Debug\2566.exe
+E:\C#\7. 2차원 배열\2566\obj\Debug\2566.pdb

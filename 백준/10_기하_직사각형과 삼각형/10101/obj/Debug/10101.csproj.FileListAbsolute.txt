@@ -1,0 +1,7 @@
+E:\C#\10. 기하 직사각형과 삼각형\10101\bin\Debug\10101.exe.config
+E:\C#\10. 기하 직사각형과 삼각형\10101\bin\Debug\10101.exe
+E:\C#\10. 기하 직사각형과 삼각형\10101\bin\Debug\10101.pdb
+E:\C#\10. 기하 직사각형과 삼각형\10101\obj\Debug\10101.csproj.AssemblyReference.cache
+E:\C#\10. 기하 직사각형과 삼각형\10101\obj\Debug\10101.csproj.CoreCompileInputs.cache
+E:\C#\10. 기하 직사각형과 삼각형\10101\obj\Debug\10101.exe
+E:\C#\10. 기하 직사각형과 삼각형\10101\obj\Debug\10101.pdb

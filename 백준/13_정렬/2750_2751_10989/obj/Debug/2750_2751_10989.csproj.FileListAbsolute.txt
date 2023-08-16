@@ -1,0 +1,7 @@
+E:\C#\13_정렬\2750_2751_10989\bin\Debug\2750_2751_10989.exe.config
+E:\C#\13_정렬\2750_2751_10989\bin\Debug\2750_2751_10989.exe
+E:\C#\13_정렬\2750_2751_10989\bin\Debug\2750_2751_10989.pdb
+E:\C#\13_정렬\2750_2751_10989\obj\Debug\2750_2751_10989.csproj.AssemblyReference.cache
+E:\C#\13_정렬\2750_2751_10989\obj\Debug\2750_2751_10989.csproj.CoreCompileInputs.cache
+E:\C#\13_정렬\2750_2751_10989\obj\Debug\2750_2751_10989.exe
+E:\C#\13_정렬\2750_2751_10989\obj\Debug\2750_2751_10989.pdb

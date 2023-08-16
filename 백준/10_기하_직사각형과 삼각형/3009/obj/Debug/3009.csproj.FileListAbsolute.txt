@@ -1,0 +1,7 @@
+E:\C#\10. 기하 직사각형과 삼각형\3009\bin\Debug\3009.exe.config
+E:\C#\10. 기하 직사각형과 삼각형\3009\bin\Debug\3009.exe
+E:\C#\10. 기하 직사각형과 삼각형\3009\bin\Debug\3009.pdb
+E:\C#\10. 기하 직사각형과 삼각형\3009\obj\Debug\3009.csproj.AssemblyReference.cache
+E:\C#\10. 기하 직사각형과 삼각형\3009\obj\Debug\3009.csproj.CoreCompileInputs.cache
+E:\C#\10. 기하 직사각형과 삼각형\3009\obj\Debug\3009.exe
+E:\C#\10. 기하 직사각형과 삼각형\3009\obj\Debug\3009.pdb

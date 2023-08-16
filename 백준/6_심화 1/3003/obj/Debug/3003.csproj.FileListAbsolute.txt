@@ -1,0 +1,6 @@
+E:\C#\6_심화 1\3003\bin\Debug\3003.exe.config
+E:\C#\6_심화 1\3003\bin\Debug\3003.exe
+E:\C#\6_심화 1\3003\bin\Debug\3003.pdb
+E:\C#\6_심화 1\3003\obj\Debug\3003.csproj.CoreCompileInputs.cache
+E:\C#\6_심화 1\3003\obj\Debug\3003.exe
+E:\C#\6_심화 1\3003\obj\Debug\3003.pdb

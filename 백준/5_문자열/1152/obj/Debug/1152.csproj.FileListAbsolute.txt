@@ -1,0 +1,6 @@
+E:\C#\5_문자열\1152\bin\Debug\1152.exe.config
+E:\C#\5_문자열\1152\bin\Debug\1152.exe
+E:\C#\5_문자열\1152\bin\Debug\1152.pdb
+E:\C#\5_문자열\1152\obj\Debug\1152.csproj.CoreCompileInputs.cache
+E:\C#\5_문자열\1152\obj\Debug\1152.exe
+E:\C#\5_문자열\1152\obj\Debug\1152.pdb

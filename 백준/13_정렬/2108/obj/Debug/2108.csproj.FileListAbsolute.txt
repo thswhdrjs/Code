@@ -1,0 +1,6 @@
+E:\C#\13_정렬\2108\bin\Debug\2108.exe.config
+E:\C#\13_정렬\2108\bin\Debug\2108.exe
+E:\C#\13_정렬\2108\bin\Debug\2108.pdb
+E:\C#\13_정렬\2108\obj\Debug\2108.csproj.CoreCompileInputs.cache
+E:\C#\13_정렬\2108\obj\Debug\2108.exe
+E:\C#\13_정렬\2108\obj\Debug\2108.pdb

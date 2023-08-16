@@ -1,0 +1,6 @@
+E:\C#\2_조건문\9498\bin\Debug\9498.exe.config
+E:\C#\2_조건문\9498\bin\Debug\9498.exe
+E:\C#\2_조건문\9498\bin\Debug\9498.pdb
+E:\C#\2_조건문\9498\obj\Debug\9498.csproj.CoreCompileInputs.cache
+E:\C#\2_조건문\9498\obj\Debug\9498.exe
+E:\C#\2_조건문\9498\obj\Debug\9498.pdb

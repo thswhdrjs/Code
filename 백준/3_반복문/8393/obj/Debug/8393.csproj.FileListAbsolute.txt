@@ -1,0 +1,6 @@
+E:\C#\3. 반복문\8393\bin\Debug\8393.exe.config
+E:\C#\3. 반복문\8393\bin\Debug\8393.exe
+E:\C#\3. 반복문\8393\bin\Debug\8393.pdb
+E:\C#\3. 반복문\8393\obj\Debug\8393.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\8393\obj\Debug\8393.exe
+E:\C#\3. 반복문\8393\obj\Debug\8393.pdb

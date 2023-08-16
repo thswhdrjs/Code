@@ -1,0 +1,6 @@
+E:\C#\2_조건문\2525\bin\Debug\2525.exe.config
+E:\C#\2_조건문\2525\bin\Debug\2525.exe
+E:\C#\2_조건문\2525\bin\Debug\2525.pdb
+E:\C#\2_조건문\2525\obj\Debug\2525.csproj.CoreCompileInputs.cache
+E:\C#\2_조건문\2525\obj\Debug\2525.exe
+E:\C#\2_조건문\2525\obj\Debug\2525.pdb

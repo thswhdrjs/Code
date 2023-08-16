@@ -1,0 +1,6 @@
+E:\C#\기본 수학 2\3009\bin\Debug\3009.exe.config
+E:\C#\기본 수학 2\3009\bin\Debug\3009.exe
+E:\C#\기본 수학 2\3009\bin\Debug\3009.pdb
+E:\C#\기본 수학 2\3009\obj\Debug\3009.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\3009\obj\Debug\3009.exe
+E:\C#\기본 수학 2\3009\obj\Debug\3009.pdb

@@ -1,0 +1,6 @@
+E:\C#\1. 입출력과 사칙연산\18108\bin\Debug\18108.exe.config
+E:\C#\1. 입출력과 사칙연산\18108\bin\Debug\18108.exe
+E:\C#\1. 입출력과 사칙연산\18108\bin\Debug\18108.pdb
+E:\C#\1. 입출력과 사칙연산\18108\obj\Debug\18108.csproj.CoreCompileInputs.cache
+E:\C#\1. 입출력과 사칙연산\18108\obj\Debug\18108.exe
+E:\C#\1. 입출력과 사칙연산\18108\obj\Debug\18108.pdb

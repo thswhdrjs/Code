@@ -1,0 +1,7 @@
+E:\C#\3. 반복문\11021\bin\Debug\11021.exe.config
+E:\C#\3. 반복문\11021\bin\Debug\11021.exe
+E:\C#\3. 반복문\11021\bin\Debug\11021.pdb
+E:\C#\3. 반복문\11021\obj\Debug\11021.csproj.AssemblyReference.cache
+E:\C#\3. 반복문\11021\obj\Debug\11021.csproj.CoreCompileInputs.cache
+E:\C#\3. 반복문\11021\obj\Debug\11021.exe
+E:\C#\3. 반복문\11021\obj\Debug\11021.pdb

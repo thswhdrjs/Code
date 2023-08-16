@@ -1,0 +1,7 @@
+E:\C#\2_조건문\1330\1330\bin\Debug\1330.exe.config
+E:\C#\2_조건문\1330\1330\bin\Debug\1330.exe
+E:\C#\2_조건문\1330\1330\bin\Debug\1330.pdb
+E:\C#\2_조건문\1330\1330\obj\Debug\1330.csproj.AssemblyReference.cache
+E:\C#\2_조건문\1330\1330\obj\Debug\1330.csproj.CoreCompileInputs.cache
+E:\C#\2_조건문\1330\1330\obj\Debug\1330.exe
+E:\C#\2_조건문\1330\1330\obj\Debug\1330.pdb

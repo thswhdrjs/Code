@@ -1,0 +1,6 @@
+E:\C#\7. 2차원 배열\10798\bin\Debug\10798.exe.config
+E:\C#\7. 2차원 배열\10798\bin\Debug\10798.exe
+E:\C#\7. 2차원 배열\10798\bin\Debug\10798.pdb
+E:\C#\7. 2차원 배열\10798\obj\Debug\10798.csproj.CoreCompileInputs.cache
+E:\C#\7. 2차원 배열\10798\obj\Debug\10798.exe
+E:\C#\7. 2차원 배열\10798\obj\Debug\10798.pdb

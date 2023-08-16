@@ -1,0 +1,6 @@
+E:\C#\5_문자열\5622\bin\Debug\5622.exe.config
+E:\C#\5_문자열\5622\bin\Debug\5622.exe
+E:\C#\5_문자열\5622\bin\Debug\5622.pdb
+E:\C#\5_문자열\5622\obj\Debug\5622.csproj.CoreCompileInputs.cache
+E:\C#\5_문자열\5622\obj\Debug\5622.exe
+E:\C#\5_문자열\5622\obj\Debug\5622.pdb

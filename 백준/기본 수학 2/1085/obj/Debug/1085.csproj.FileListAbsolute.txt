@@ -1,0 +1,6 @@
+E:\C#\기본 수학 2\1085\bin\Debug\1085.exe.config
+E:\C#\기본 수학 2\1085\bin\Debug\1085.exe
+E:\C#\기본 수학 2\1085\bin\Debug\1085.pdb
+E:\C#\기본 수학 2\1085\obj\Debug\1085.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\1085\obj\Debug\1085.exe
+E:\C#\기본 수학 2\1085\obj\Debug\1085.pdb

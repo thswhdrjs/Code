@@ -1,0 +1,6 @@
+E:\C#\5_문자열\2743\bin\Debug\2743.exe.config
+E:\C#\5_문자열\2743\bin\Debug\2743.exe
+E:\C#\5_문자열\2743\bin\Debug\2743.pdb
+E:\C#\5_문자열\2743\obj\Debug\2743.csproj.CoreCompileInputs.cache
+E:\C#\5_문자열\2743\obj\Debug\2743.exe
+E:\C#\5_문자열\2743\obj\Debug\2743.pdb

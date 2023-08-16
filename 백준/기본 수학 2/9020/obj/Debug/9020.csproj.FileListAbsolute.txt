@@ -1,0 +1,6 @@
+E:\C#\기본 수학 2\9020\bin\Debug\9020.exe.config
+E:\C#\기본 수학 2\9020\bin\Debug\9020.exe
+E:\C#\기본 수학 2\9020\bin\Debug\9020.pdb
+E:\C#\기본 수학 2\9020\obj\Debug\9020.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\9020\obj\Debug\9020.exe
+E:\C#\기본 수학 2\9020\obj\Debug\9020.pdb

@@ -1,0 +1,6 @@
+E:\C#\기본 수학 2\1978\bin\Debug\1978.exe.config
+E:\C#\기본 수학 2\1978\bin\Debug\1978.exe
+E:\C#\기본 수학 2\1978\bin\Debug\1978.pdb
+E:\C#\기본 수학 2\1978\obj\Debug\1978.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\1978\obj\Debug\1978.exe
+E:\C#\기본 수학 2\1978\obj\Debug\1978.pdb

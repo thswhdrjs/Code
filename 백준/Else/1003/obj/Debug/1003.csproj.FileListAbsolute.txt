@@ -1,0 +1,7 @@
+E:\C#\Else\1003\bin\Debug\1003.exe.config
+E:\C#\Else\1003\bin\Debug\1003.exe
+E:\C#\Else\1003\bin\Debug\1003.pdb
+E:\C#\Else\1003\obj\Debug\1003.csproj.AssemblyReference.cache
+E:\C#\Else\1003\obj\Debug\1003.csproj.CoreCompileInputs.cache
+E:\C#\Else\1003\obj\Debug\1003.exe
+E:\C#\Else\1003\obj\Debug\1003.pdb

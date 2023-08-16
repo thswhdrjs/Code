@@ -1,0 +1,6 @@
+E:\C#\5_문자열\10809\bin\Debug\10809.exe.config
+E:\C#\5_문자열\10809\bin\Debug\10809.exe
+E:\C#\5_문자열\10809\bin\Debug\10809.pdb
+E:\C#\5_문자열\10809\obj\Debug\10809.csproj.CoreCompileInputs.cache
+E:\C#\5_문자열\10809\obj\Debug\10809.exe
+E:\C#\5_문자열\10809\obj\Debug\10809.pdb

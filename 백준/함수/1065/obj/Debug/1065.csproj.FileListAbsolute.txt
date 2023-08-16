@@ -1,0 +1,6 @@
+E:\C#\함수\1065\bin\Debug\1065.exe.config
+E:\C#\함수\1065\bin\Debug\1065.exe
+E:\C#\함수\1065\bin\Debug\1065.pdb
+E:\C#\함수\1065\obj\Debug\1065.csproj.CoreCompileInputs.cache
+E:\C#\함수\1065\obj\Debug\1065.exe
+E:\C#\함수\1065\obj\Debug\1065.pdb

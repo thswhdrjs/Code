@@ -1,0 +1,6 @@
+E:\C#\기본 수학 2\4948\bin\Debug\4948.exe.config
+E:\C#\기본 수학 2\4948\bin\Debug\4948.exe
+E:\C#\기본 수학 2\4948\bin\Debug\4948.pdb
+E:\C#\기본 수학 2\4948\obj\Debug\4948.csproj.CoreCompileInputs.cache
+E:\C#\기본 수학 2\4948\obj\Debug\4948.exe
+E:\C#\기본 수학 2\4948\obj\Debug\4948.pdb

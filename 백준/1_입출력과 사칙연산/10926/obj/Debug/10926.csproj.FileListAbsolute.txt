@@ -1,0 +1,6 @@
+E:\C#\1. 입출력과 사칙연산\10926\bin\Debug\10926.exe.config
+E:\C#\1. 입출력과 사칙연산\10926\bin\Debug\10926.exe
+E:\C#\1. 입출력과 사칙연산\10926\bin\Debug\10926.pdb
+E:\C#\1. 입출력과 사칙연산\10926\obj\Debug\10926.csproj.CoreCompileInputs.cache
+E:\C#\1. 입출력과 사칙연산\10926\obj\Debug\10926.exe
+E:\C#\1. 입출력과 사칙연산\10926\obj\Debug\10926.pdb

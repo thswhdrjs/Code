@@ -1,0 +1,6 @@
+E:\C#\2_조건문\2480\bin\Debug\2480.exe.config
+E:\C#\2_조건문\2480\bin\Debug\2480.exe
+E:\C#\2_조건문\2480\bin\Debug\2480.pdb
+E:\C#\2_조건문\2480\obj\Debug\2480.csproj.CoreCompileInputs.cache
+E:\C#\2_조건문\2480\obj\Debug\2480.exe
+E:\C#\2_조건문\2480\obj\Debug\2480.pdb
