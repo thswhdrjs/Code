@@ -1,0 +1,7 @@
+E:\C#\13. 정렬\2587\bin\Debug\2587.exe.config
+E:\C#\13. 정렬\2587\bin\Debug\2587.exe
+E:\C#\13. 정렬\2587\bin\Debug\2587.pdb
+E:\C#\13. 정렬\2587\obj\Debug\2587.csproj.AssemblyReference.cache
+E:\C#\13. 정렬\2587\obj\Debug\2587.csproj.CoreCompileInputs.cache
+E:\C#\13. 정렬\2587\obj\Debug\2587.exe
+E:\C#\13. 정렬\2587\obj\Debug\2587.pdb

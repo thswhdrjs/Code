@@ -1,0 +1,7 @@
+E:\C#\12. 브루트 포스\19532\bin\Debug\19532.exe.config
+E:\C#\12. 브루트 포스\19532\bin\Debug\19532.exe
+E:\C#\12. 브루트 포스\19532\bin\Debug\19532.pdb
+E:\C#\12. 브루트 포스\19532\obj\Debug\19532.csproj.AssemblyReference.cache
+E:\C#\12. 브루트 포스\19532\obj\Debug\19532.csproj.CoreCompileInputs.cache
+E:\C#\12. 브루트 포스\19532\obj\Debug\19532.exe
+E:\C#\12. 브루트 포스\19532\obj\Debug\19532.pdb

@@ -1,0 +1,7 @@
+E:\C#\12. 브루트 포스\2839\bin\Debug\2839.exe.config
+E:\C#\12. 브루트 포스\2839\bin\Debug\2839.exe
+E:\C#\12. 브루트 포스\2839\bin\Debug\2839.pdb
+E:\C#\12. 브루트 포스\2839\obj\Debug\2839.csproj.CoreCompileInputs.cache
+E:\C#\12. 브루트 포스\2839\obj\Debug\2839.exe
+E:\C#\12. 브루트 포스\2839\obj\Debug\2839.pdb
+E:\C#\12. 브루트 포스\2839\obj\Debug\2839.csproj.AssemblyReference.cache

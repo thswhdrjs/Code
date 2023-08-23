@@ -1,0 +1,7 @@
+E:\C#\14. 집합과 맵\1620\bin\Debug\1620.exe.config
+E:\C#\14. 집합과 맵\1620\bin\Debug\1620.exe
+E:\C#\14. 집합과 맵\1620\bin\Debug\1620.pdb
+E:\C#\14. 집합과 맵\1620\obj\Debug\1620.csproj.AssemblyReference.cache
+E:\C#\14. 집합과 맵\1620\obj\Debug\1620.csproj.CoreCompileInputs.cache
+E:\C#\14. 집합과 맵\1620\obj\Debug\1620.exe
+E:\C#\14. 집합과 맵\1620\obj\Debug\1620.pdb

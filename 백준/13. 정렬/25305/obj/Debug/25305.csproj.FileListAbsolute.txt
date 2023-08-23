@@ -1,0 +1,6 @@
+E:\C#\13. 정렬\25305\bin\Debug\25305.exe.config
+E:\C#\13. 정렬\25305\bin\Debug\25305.exe
+E:\C#\13. 정렬\25305\bin\Debug\25305.pdb
+E:\C#\13. 정렬\25305\obj\Debug\25305.csproj.CoreCompileInputs.cache
+E:\C#\13. 정렬\25305\obj\Debug\25305.exe
+E:\C#\13. 정렬\25305\obj\Debug\25305.pdb
