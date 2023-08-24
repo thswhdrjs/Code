@@ -1,0 +1,7 @@
+E:\C#\15. 약수, 배수와 소수 2\4134\bin\Debug\4134.exe.config
+E:\C#\15. 약수, 배수와 소수 2\4134\bin\Debug\4134.exe
+E:\C#\15. 약수, 배수와 소수 2\4134\bin\Debug\4134.pdb
+E:\C#\15. 약수, 배수와 소수 2\4134\obj\Debug\4134.csproj.AssemblyReference.cache
+E:\C#\15. 약수, 배수와 소수 2\4134\obj\Debug\4134.csproj.CoreCompileInputs.cache
+E:\C#\15. 약수, 배수와 소수 2\4134\obj\Debug\4134.exe
+E:\C#\15. 약수, 배수와 소수 2\4134\obj\Debug\4134.pdb

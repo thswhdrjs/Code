@@ -1,0 +1,6 @@
+E:\C#\15. 약수, 배수와 소수 2\4948\bin\Debug\4948.exe.config
+E:\C#\15. 약수, 배수와 소수 2\4948\bin\Debug\4948.exe
+E:\C#\15. 약수, 배수와 소수 2\4948\bin\Debug\4948.pdb
+E:\C#\15. 약수, 배수와 소수 2\4948\obj\Debug\4948.csproj.CoreCompileInputs.cache
+E:\C#\15. 약수, 배수와 소수 2\4948\obj\Debug\4948.exe
+E:\C#\15. 약수, 배수와 소수 2\4948\obj\Debug\4948.pdb

@@ -1,0 +1,7 @@
+E:\C#\15. 약수, 배수와 소수 2\1934\bin\Debug\1934.exe.config
+E:\C#\15. 약수, 배수와 소수 2\1934\bin\Debug\1934.exe
+E:\C#\15. 약수, 배수와 소수 2\1934\bin\Debug\1934.pdb
+E:\C#\15. 약수, 배수와 소수 2\1934\obj\Debug\1934.csproj.AssemblyReference.cache
+E:\C#\15. 약수, 배수와 소수 2\1934\obj\Debug\1934.csproj.CoreCompileInputs.cache
+E:\C#\15. 약수, 배수와 소수 2\1934\obj\Debug\1934.exe
+E:\C#\15. 약수, 배수와 소수 2\1934\obj\Debug\1934.pdb
