@@ -14,6 +14,7 @@
       - #### [`13. 정렬`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/13.%20%EC%A0%95%EB%A0%AC)
       - #### [`14. 집합과 맵`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/14.%20%EC%A7%91%ED%95%A9%EA%B3%BC%20%EB%A7%B5)
       - #### [`15. 약수, 배수와 소수 2`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/15.%20%EC%95%BD%EC%88%98%2C%20%EB%B0%B0%EC%88%98%EC%99%80%20%EC%86%8C%EC%88%98%202)
+      - #### [`15. 약수, 배수와 소수 2`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/16.%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1)
       - #### [`기본 수학2`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/%EA%B8%B0%EB%B3%B8%20%EC%88%98%ED%95%99%202)
       - #### [`재귀`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/%EC%9E%AC%EA%B7%80)
       - #### [`함수`](https://github.com/thswhdrjs/Code/tree/main/%EB%B0%B1%EC%A4%80/%ED%95%A8%EC%88%98)
