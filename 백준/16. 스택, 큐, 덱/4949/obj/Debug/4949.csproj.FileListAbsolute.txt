@@ -1,0 +1,7 @@
+E:\C#\16. 스택, 큐, 덱\4949\bin\Debug\4949.exe.config
+E:\C#\16. 스택, 큐, 덱\4949\bin\Debug\4949.exe
+E:\C#\16. 스택, 큐, 덱\4949\bin\Debug\4949.pdb
+E:\C#\16. 스택, 큐, 덱\4949\obj\Debug\4949.csproj.AssemblyReference.cache
+E:\C#\16. 스택, 큐, 덱\4949\obj\Debug\4949.csproj.CoreCompileInputs.cache
+E:\C#\16. 스택, 큐, 덱\4949\obj\Debug\4949.exe
+E:\C#\16. 스택, 큐, 덱\4949\obj\Debug\4949.pdb

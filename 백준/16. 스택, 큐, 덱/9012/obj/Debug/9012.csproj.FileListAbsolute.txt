@@ -1,0 +1,7 @@
+E:\C#\16. 스택, 큐, 덱\9012\bin\Debug\9012.exe.config
+E:\C#\16. 스택, 큐, 덱\9012\bin\Debug\9012.exe
+E:\C#\16. 스택, 큐, 덱\9012\bin\Debug\9012.pdb
+E:\C#\16. 스택, 큐, 덱\9012\obj\Debug\9012.csproj.AssemblyReference.cache
+E:\C#\16. 스택, 큐, 덱\9012\obj\Debug\9012.csproj.CoreCompileInputs.cache
+E:\C#\16. 스택, 큐, 덱\9012\obj\Debug\9012.exe
+E:\C#\16. 스택, 큐, 덱\9012\obj\Debug\9012.pdb

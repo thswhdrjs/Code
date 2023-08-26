@@ -1,0 +1,7 @@
+E:\C#\16. 스택, 큐, 덱\18258\bin\Debug\18258.exe.config
+E:\C#\16. 스택, 큐, 덱\18258\bin\Debug\18258.exe
+E:\C#\16. 스택, 큐, 덱\18258\bin\Debug\18258.pdb
+E:\C#\16. 스택, 큐, 덱\18258\obj\Debug\18258.csproj.AssemblyReference.cache
+E:\C#\16. 스택, 큐, 덱\18258\obj\Debug\18258.csproj.CoreCompileInputs.cache
+E:\C#\16. 스택, 큐, 덱\18258\obj\Debug\18258.exe
+E:\C#\16. 스택, 큐, 덱\18258\obj\Debug\18258.pdb
