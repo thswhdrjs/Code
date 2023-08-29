@@ -1,0 +1,7 @@
+E:\C#\16. 스택, 큐, 덱\24511\bin\Debug\24511.exe.config
+E:\C#\16. 스택, 큐, 덱\24511\bin\Debug\24511.exe
+E:\C#\16. 스택, 큐, 덱\24511\bin\Debug\24511.pdb
+E:\C#\16. 스택, 큐, 덱\24511\obj\Debug\24511.csproj.AssemblyReference.cache
+E:\C#\16. 스택, 큐, 덱\24511\obj\Debug\24511.csproj.CoreCompileInputs.cache
+E:\C#\16. 스택, 큐, 덱\24511\obj\Debug\24511.exe
+E:\C#\16. 스택, 큐, 덱\24511\obj\Debug\24511.pdb

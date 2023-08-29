@@ -1,0 +1,7 @@
+E:\C#\16. 스택, 큐, 덱\11866\bin\Debug\11866.exe.config
+E:\C#\16. 스택, 큐, 덱\11866\bin\Debug\11866.exe
+E:\C#\16. 스택, 큐, 덱\11866\bin\Debug\11866.pdb
+E:\C#\16. 스택, 큐, 덱\11866\obj\Debug\11866.csproj.AssemblyReference.cache
+E:\C#\16. 스택, 큐, 덱\11866\obj\Debug\11866.csproj.CoreCompileInputs.cache
+E:\C#\16. 스택, 큐, 덱\11866\obj\Debug\11866.exe
+E:\C#\16. 스택, 큐, 덱\11866\obj\Debug\11866.pdb
